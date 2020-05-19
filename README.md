@@ -16,10 +16,10 @@ You must create a model which predicts a probability of each type of toxicity fo
 
 <h3>File descriptions</h3>
 
-train.csv - the training set, contains comments with their binary labels
-test.csv - the test set, you must predict the toxicity probabilities for these comments. To deter hand labeling, the test set contains some comments which are not included in scoring.
-sample_submission.csv - a sample submission file in the correct format
-test_labels.csv - labels for the test data; value of -1 indicates it was not used for scoring;
+* <b>train.csv</b> - the training set, contains comments with their binary labels
+* <b>test.csv</b> - the test set, you must predict the toxicity probabilities for these comments. To deter hand labeling, the test set contains some comments which are not included in scoring.
+* <b>sample_submission.csv</b> - a sample submission file in the correct format
+* <b>test_labels.csv</b> - labels for the test data; value of -1 indicates it was not used for scoring;
 
 <h3>Usage</h3>
 
