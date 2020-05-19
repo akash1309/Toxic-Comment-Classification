@@ -1,5 +1,7 @@
 # Toxic-Comment-Classification
 
+<h3> Brief Introduction</h3>
+
 An NLP model that can predict the probability for each type of toxicity of comments.
 
 <h3> Overview </h3>
